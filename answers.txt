@@ -1,0 +1,4 @@
+What is the difference between a merge and a rebase?
+
+A merge may result in a nonlinear version history while a rebase will maintain a linear version history.
+
